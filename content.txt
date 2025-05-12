@@ -9,6 +9,10 @@
     > Debugging
     > Easy to colab
 5. End to End Project (Chatbook class implementation)
+    > function vs method
+    > magic method or dunder method
+    > self
+    > You can create attributes outside of the class 
     > Encapsulation 
     > getter setter
     > static method
